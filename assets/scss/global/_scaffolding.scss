@@ -1,0 +1,19 @@
+html {
+    background: url(../images/above_camp_2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.row {
+    
+    &.not-centered {
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
+}
+
+.content-container {
+    background: white;
+}
